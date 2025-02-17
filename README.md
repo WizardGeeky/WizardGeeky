@@ -15,8 +15,8 @@
 
 ###  Reach Me  
 📩 Email: [eswar.crypto.tech@gmail.com](mailto:eswar.crypto.tech@gmail.com)  
-🌐 Portfolio: [Your Portfolio Link]  
-💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/b-eswararao-9b2841240/)  
+🌐 Portfolio: (https://eswarb.vercel.app/)  
+💼 LinkedIn: [Eswar](https://www.linkedin.com/in/b-eswararao-9b2841240/)  
 
 <br>
 
