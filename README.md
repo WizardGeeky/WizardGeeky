@@ -1,5 +1,5 @@
 # Hi there 👋 I'm Eswar
-🌟 Passionate **Full-Stack Web Developer** | **Web3 Enthusiast** | **Blockchain Explorer**  
+🌟 Passionate **Full-Stack Web Developer** | **Next JS** | **TypeScript** | **Web3 Enthusiast** | **Blockchain Explorer**  
 
 ---
 
