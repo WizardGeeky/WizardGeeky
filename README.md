@@ -1,15 +1,15 @@
 # Hi there 👋 I'm Eswar
-🌟 Passionate **Full-Stack Web Developer** | **Next JS** | **TypeScript** | **Web3 Enthusiast** | **Blockchain Explorer**  
+🌟 Passionate **Full-Stack Web Developer** | **Next JS** | **TypeScript** | **Spring Boot**  
 
 ---
 
 ###  About Me  
 - 🎓 Studied **Information Technology**  
-- ⭐ Building **decentralized applications** and experimenting with new **Web3 technologies**  
+- ⭐ Building **full stack applications** and experimenting with new **technologies**  
 - 💡 Exploring innovative **tools, frameworks, and hacks**  
-- 🤝 Open to collaboration on **Web3 and full-stack projects**  
-- 📖 Currently **learning & developing** in the **Web3 space**  
-- 🎯 Looking for a **Web3 Developer role**  
+- 🤝 Open to collaboration on **full-stack projects**  
+- 📖 Currently **developing** in the **Full Stack Application**  
+- 🎯 Looking for a **Full Stack Developer**  
 
 <br>
 
