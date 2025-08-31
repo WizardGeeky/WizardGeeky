@@ -1,5 +1,5 @@
-# Hi there 👋 I'm Eswar
-🌟 Passionate **Web3 Developer ||  Full-Stack Web Developer** | **Next JS, TypeScript ** | **TypeScript** | **Spring Boot**  
+# Hi there 👋 I'm Eswar  
+🌟 Passionate **Web3 Developer** | **Full-Stack Developer** | **Next.js & TypeScript** | **Spring Boot**
 
 ---
 
