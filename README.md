@@ -41,8 +41,7 @@
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 ![Magic UI](https://img.shields.io/badge/-Magic%20UI-9333EA?style=flat&logo=sparkles&logoColor=white)
 ![Aceternity UI](https://img.shields.io/badge/-Aceternity%20UI-0EA5E9?style=flat&logo=react&logoColor=white)
-![shadcn/ui](https://img.shields.io/badge/-shadcn%2Fui-000000?style=flat&logo=radix-ui&logoColor=white)  
-
+![shadcn/ui](https://img.shields.io/badge/-shadcn%2Fui-000000?style=flat&logo=radix-ui&logoColor=white)
 <br>
 
 
