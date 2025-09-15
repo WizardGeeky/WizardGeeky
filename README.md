@@ -23,17 +23,16 @@
 ### ⚡ Tech Stack  
 
 **Languages**    
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)  
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+
 
 **Backend**    
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![TimescaleDB](https://img.shields.io/badge/-TimescaleDB-FDB515?style=flat&logo=timescale&logoColor=black)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)  
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/-Spring%20Security-6DB33F?style=flat&logo=spring-security&logoColor=white)
 
@@ -49,7 +48,6 @@
 
 **Infrastructure**  
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white)
-![Hetzner](https://img.shields.io/badge/-Hetzner-D50C2D?style=flat&logo=hetzner&logoColor=white)
 ![Render](https://img.shields.io/badge/-Render-46E3B7?style=flat&logo=render&logoColor=black)  
 
 **Web3**  
