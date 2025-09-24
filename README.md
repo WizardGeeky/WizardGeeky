@@ -22,9 +22,12 @@
 💼 LinkedIn: [Eswar](https://www.linkedin.com/in/eswar-me/)  
 
 <br>
- <p >
+ <p>
+  <p>
   <img src="https://github-readme-stats.vercel.app/api?username=WizardGeeky&show_icons=true&locale=en&theme=transparent&border_color=FF0000" alt="WizardGeeky GitHub Stats" />
+  
   <img src="https://github-readme-streak-stats.herokuapp.com?user=WizardGeeky&theme=transparent&border=FF0000" alt="WizardGeeky GitHub Streak" />
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WizardGeeky&layout=compact&theme=transparent&border_color=FF0000" alt="WizardGeeky Top Languages" />
 </p>
 </p>
