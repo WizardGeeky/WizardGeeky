@@ -3,7 +3,7 @@
 
 ---
 
-<img align="right" alt="coding" width="400" src="https://cdn.sanity.io/images/ordgikwe/production/a830c5182852e35bcd0dc07b90122f07ecd15f48-700x525.gif?w=700&h=525&auto=format">
+<img align="right" alt="Coding" width="380" src="https://cdn.sanity.io/images/ordgikwe/production/a830c5182852e35bcd0dc07b90122f07ecd15f48-700x525.gif?w=700&h=525&auto=format" />
 
 ###  About Me  
 - 🎓 Studied **Information Technology**  
@@ -21,18 +21,6 @@
 🌐 Portfolio: (https://eswarb.vercel.app/)  
 💼 LinkedIn: [Eswar](https://www.linkedin.com/in/eswar-me/)  
 
-<br>
- <p>
-  <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=WizardGeeky&show_icons=true&locale=en&theme=transparent&border_color=FF0000" alt="WizardGeeky GitHub Stats" />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=WizardGeeky&theme=transparent&border=FF0000" alt="WizardGeeky GitHub Streak" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WizardGeeky&layout=compact&theme=transparent&border_color=FF0000" alt="WizardGeeky Top Languages" />
-</p>
-</p>
-
-<br>
 
 ### ⚡ Tech Stack  
 
@@ -64,15 +52,7 @@
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/-Render-46E3B7?style=flat&logo=render&logoColor=black)  
 
-**Web3**  
-![Ethers.js](https://img.shields.io/badge/-Ethers.js-2536EB?style=flat&logo=ethereum&logoColor=white)
-![Viem](https://img.shields.io/badge/-Viem-121212?style=flat&logo=viem&logoColor=white)
-![Wagmi](https://img.shields.io/badge/-Wagmi-17C3B2?style=flat&logo=react&logoColor=white)  
 
-**Chains**  
-![Arbitrum](https://img.shields.io/badge/-Arbitrum-2D374B?style=flat&logo=arbitrum&logoColor=white)
-![Base](https://img.shields.io/badge/-Base-0052FF?style=flat&logo=coinbase&logoColor=white)
-![Hyperliquid](https://img.shields.io/badge/-Hyperliquid-FF4F64?style=flat&logo=protocols&logoColor=white)  
 
 **AI / Agentic Frameworks**  
 ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat&logo=chainlink&logoColor=white)
